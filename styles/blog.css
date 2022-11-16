@@ -1,0 +1,231 @@
+body {
+  background-color: #0f0744;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, "poppins";
+  color: white;
+}
+
+.main{
+  background-color: #0f0744;
+}
+
+.how {
+  border-radius: 5px;
+  background-color: #cc00ff;
+  color: black;
+}
+
+.stat {
+  border-radius: 5px;
+  background-color: #cc00ef;
+  color: white;
+}
+
+.scrimm a {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+  outline: none;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, "poppins";
+}
+
+.scrimm {
+  color: #9900cc;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, "poppins";
+}
+
+.stat:hover {
+  border-radius: 5px;
+  background-color: #e5e5e5;
+  color: #194d33;
+}
+
+.scrim:hover {
+  border-radius: 5px;
+  background-color: #cc00ff;
+  color: white;
+}
+
+.frixx:hover {
+  border-radius: 5px;
+  background-color: #e5e5e5;
+  color: #194d33;
+}
+
+.zeddpay:hover {
+  border-radius: 5px;
+  background-color: #3366ff;
+  color: white;
+}
+
+.feedpay:hover {
+  border-radius: 5px;
+  background-color: #6600cc;
+  color: white;
+}
+
+.eddify:hover {
+  border-radius: 5px;
+  background-color: #e6ffff;
+  color: dark;
+}
+
+.liteweb:hover {
+  border-radius: 5px;
+  background-color: black;
+  color: #00b3b3;
+}
+
+.tekart:hover {
+  border-radius: 5px;
+  background-color: #ff6600;
+  color: white;
+}
+
+.hivend:hover {
+  border-radius: 5px;
+  background-color: #ffc900;
+  color: black;
+}
+
+.studentshub:hover {
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+}
+
+.codecube:hover {
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+}
+
+.lazerpay:hover {
+  border-radius: 5px;
+  background-color: white;
+  color: #6600ff;
+}
+
+a {
+  color: #cc00ef;
+  text-decoration: none;
+}
+
+fa {
+  color: #e5e5e5;
+}
+
+.blog-header {
+  line-height: 1;
+  font-family: Arial, "poppins";
+  border-bottom: 1px solid #e5e5e5;
+}
+
+code {
+  color: #cc00ef;
+}
+
+.blog-header-logo {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, "poppins";
+  font-size: 2.25rem;
+}
+
+.blog-header-logo:hover {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, "poppins";
+}
+
+.display-4 {
+  font-size: 2.5rem;
+}
+@media (min-width: 768px) {
+  .display-4 {
+    font-size: 3rem;
+  }
+}
+
+.nav-scroller {
+  position: relative;
+  z-index: 2;
+  height: 2.75rem;
+  overflow-y: hidden;
+}
+
+.nav-scroller .nav {
+  display: flex;
+  flex-wrap: nowrap;
+  padding-bottom: 1rem;
+  margin-top: -1px;
+  overflow-x: auto;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+.nav-scroller .nav-link {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  font-size: 0.875rem;
+}
+
+.card-img-right {
+  height: 100%;
+  border-radius: 0 3px 3px 0;
+}
+
+.flex-auto {
+  flex: 0 0 auto;
+}
+
+.h-250 {
+  height: 250px;
+}
+@media (min-width: 768px) {
+  .h-md-250 {
+    height: 250px;
+  }
+}
+
+/* Pagination */
+.blog-pagination {
+  margin-bottom: 4rem;
+}
+.blog-pagination > .btn {
+  border-radius: 2rem;
+}
+
+/*
+ * Blog posts
+ */
+.blog-post {
+  margin-bottom: 4rem;
+}
+.blog-post-title {
+  margin-bottom: 0.25rem;
+  font-size: 2.5rem;
+}
+.blog-post-meta {
+  margin-bottom: 1.25rem;
+  color: #727272;
+}
+
+/*
+ * Footer
+ */
+.blog-footer {
+  padding: 2.5rem 0;
+  color: #727272;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 0.05rem solid #e5e5e5;
+}
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
