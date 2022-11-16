@@ -1,7 +1,7 @@
 # scrimm
 Get to know everything about scrim. How to use it, what is it.
-#live link
+# live link
 https://scrm-blog.netlify.app/
-#Author
+# Author
 Victor Olatunji
 Built ❤️⚡❤️
